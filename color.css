@@ -19,6 +19,7 @@
 .text {
     margin-top: 70px;
     padding-left: 60px;
+    max-width: 800px;
 }
 
 .btn1 {
